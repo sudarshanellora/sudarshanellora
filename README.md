@@ -29,7 +29,7 @@ sudarshan = {
     "now":        "AI Intern @ Flyrank AI",
     "focus":      ["forecasting", "optimisation", "decision support systems", "process improvement"],
     "proudest":   "€2.6M annual savings through Lean Six Sigma and root-cause analysis",
-    "fun_fact":   "karate black belt 🥋",
+    "fun_fact":   "karate black belt 🥋", "I play badminton", 
 }
 ```
 
