@@ -15,7 +15,6 @@
   <a href="https://www.sudarshanellora.com/"><img src="https://img.shields.io/badge/Portfolio-sudarshanellora.com-2C9AB7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sudarshane"><img src="https://img.shields.io/badge/LinkedIn-sudarshane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sudarshanelluru01@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sudarshanellora&style=for-the-badge&color=2c5364&label=Profile+views" />
 </p>
 
 ---
@@ -158,27 +157,6 @@ Python Minesweeper game with a statistics module that uses depth-first search to
 </table>
 
 <p align="center"><a href="https://www.sudarshanellora.com/"><b>See the full portfolio →</b></a></p>
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sudarshanellora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanellora&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudarshanellora&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanellora&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudarshanellora&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
 
 ---
 
