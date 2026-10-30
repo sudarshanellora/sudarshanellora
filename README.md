@@ -24,8 +24,8 @@
 ```python
 sudarshan = {
     "based_in":   "Dublin, Ireland",
-    "Masters":   "MSc Business Analytics, UCD Michael Smurfit Graduate Business School",
-    "background": "BE Electronics and Communication Engineering",
+    "masters":   "MSc Business Analytics, UCD Michael Smurfit Graduate Business School",
+    "bachelors": "BE Electronics and Communication Engineering",
     "now":        "AI Intern @ Flyrank AI",
     "focus":      ["forecasting", "optimisation", "decision support systems", "process improvement"],
     "proudest":   "€2.6M annual savings through Lean Six Sigma and root-cause analysis",
