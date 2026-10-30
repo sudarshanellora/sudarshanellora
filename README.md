@@ -24,7 +24,7 @@
 ```python
 sudarshan = {
     "based_in":   "Dublin, Ireland",
-    "studying":   "MSc Business Analytics, UCD Michael Smurfit Graduate Business School",
+    "Masters":   "MSc Business Analytics, UCD Michael Smurfit Graduate Business School",
     "background": "BE Electronics and Communication Engineering",
     "now":        "AI Intern @ Flyrank AI",
     "focus":      ["forecasting", "optimisation", "decision support systems", "process improvement"],
